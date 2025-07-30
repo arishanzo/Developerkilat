@@ -89,7 +89,7 @@ const Project = () => {
   {posts.map((item, index)=> (
 
   
-    <div key={index} className='transform md:hover:scale-50 transition-all duration-300'>
+    <div key={index} className='transform md:hover:scale-125 hover:z-20  hover:shadow-xl transition-transform duration-300 p-8 dark:opacity-70 dark:hover:opacity-100 '>
         <img class="h-auto max-w-full rounded-lg " src={item.imageUrl} alt=""/>
     </div>
    

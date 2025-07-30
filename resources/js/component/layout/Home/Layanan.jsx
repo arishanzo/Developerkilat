@@ -27,7 +27,7 @@ const Layanan = () => {
 
         <>
              
-    <section className="relative dark:relative-none bg-gray-100 dark:bg-gray-900 md:p-16   pt-16 md:pt-32  overflow-x-hidden" >
+    <section className="relative dark:relative-none bg-gray-100 dark:bg-gray-900 md:p-16   pt-16 md:pt-32  overflow-y-hidden" >
     <div className="absolute inset-x-0 bottom-0 dark:hidden">
         <svg viewBox="0 0 224 12" fill="currentColor" className="w-full -mb-1 text-white" preserveAspectRatio="none">
             <path
